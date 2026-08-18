@@ -2,7 +2,7 @@
   --warna-utama: #1f4e79;
   --warna-latar: #f2f2f2;
   --warna-teks: #222222;
-  ---font-utama: calibri, arial, sanss-serif;
+  --font-utama: calibri, arial, sanss-serif;
 }
 
 * { box-sizing: border-box; }
